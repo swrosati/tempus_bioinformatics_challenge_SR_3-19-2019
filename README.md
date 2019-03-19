@@ -2,7 +2,7 @@
 
 The project contained in this folder is for the Tempus Bioinformatics Challenge.  Challenge was completed in JupytperLab v34.9 for maximum tracebility.
 
-**DEPENDENCIES: **
+**DEPENDENCIES:**
 See ./dependencies.txt
 
 **FILE STRUCTURE:**
